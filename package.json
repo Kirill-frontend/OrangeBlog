@@ -1,0 +1,29 @@
+{
+  "name": "orangeblog-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirill-frontend/OrangeBlog.git"
+  },
+  "keywords": [
+    "js",
+    "react"
+  ],
+  "author": "Kyrylo <coder.frontend@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirill-frontend/OrangeBlog/issues"
+  },
+  "homepage": "https://github.com/Kirill-frontend/OrangeBlog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
